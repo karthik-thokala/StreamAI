@@ -31,10 +31,9 @@ StreamAI is an innovative movie streaming platform that combines **AI movie sugg
 - **🔐 Authentication**:
   - Firebase Authentication (SignUp/SignIn)
 
-- **🚀 Deployment**: 
-  -  Live Demo: [https://stellular-druid-ca0311.netlify.app/](https://stellular-druid-ca0311.netlify.app/)
+## 🌐 Live Demo
+  🔗 [View Deployed Website on Netlify](https://stellular-druid-ca0311.netlify.app/)
  
-    
 ## 📸 Demo Preview
 
 ##🎮  How to Use
