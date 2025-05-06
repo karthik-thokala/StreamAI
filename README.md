@@ -1,8 +1,8 @@
-# StreamAI - AI-Powered Movie Streaming Platform
+# 🎬 StreamAI - AI-Powered Movie Streaming Platform
 
 StreamAI is an innovative movie streaming platform that combines **AI movie suggestions** and an immersive movie-watching experience. The app is designed to provide a smooth user experience with features like a **login system**, dynamic movie cards, and movie trailers, along with **AI-powered recommendations** powered by OpenAI's GPT-3.5 model and DeepReek R1 models.
 
-## Table of Contents
+## 📚 Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [How to Use](#how-to-use)
@@ -10,7 +10,7 @@ StreamAI is an innovative movie streaming platform that combines **AI movie sugg
 - [Deployment](#deployment)
 - [License](#license)
 
-## Features
+##  ✨Features
 
 - **Login/Signup System**: Users can create accounts and sign in to access personalized movie recommendations and content.
 - **Movie Cards**: Browse top-rated, trending, and upcoming movies with movie posters, titles, and brief descriptions.
@@ -20,25 +20,24 @@ StreamAI is an innovative movie streaming platform that combines **AI movie sugg
 - **StreamHub**: Home page that acts as the control center for accessing trending movies and using AI recommendations.
 - **Integrated AI Models**: Using OpenAI’s **GPT-3.5** and **DeepReek R1** models to suggest movies based on your input, genre preferences, and more.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- **Frontend**: 
+- **⚛️Frontend**: 
   - React.js
   - Tailwind CSS
   - React Router
   - Axios for API calls
 
-- **Backend (AI Integration)**:
-  - OpenAI API (GPT-3.5 for movie recommendations)
-  - DeepReek R1 model (AI-driven suggestions)
-  
-- **Authentication**:
+- **🔐 Authentication**:
   - Firebase Authentication (SignUp/SignIn)
 
-- **Deployment**: 
-  - Netlify for live deployment
+- **🚀 Deployment**: 
+  -  Live Demo: [https://stellular-druid-ca0311.netlify.app/](https://stellular-druid-ca0311.netlify.app/)
+ 
+    
+## 📸 Demo Preview
 
-## How to Use
+##🎮  How to Use
 
 1. **Login/SignUp**: 
    - On the landing page, you’ll find options to sign up or sign in. 
@@ -59,7 +58,7 @@ StreamAI is an innovative movie streaming platform that combines **AI movie sugg
    - This takes you back to the home screen to explore more movies.
 
 
-### Prerequisites
+### 🧾 Prerequisites
 
 - **Node.js** and **npm** installed on your machine.
 - **Firebase** account for authentication.
