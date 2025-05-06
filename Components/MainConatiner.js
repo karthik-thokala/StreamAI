@@ -8,13 +8,13 @@ const MainConatiner = ({ selectedId }) => {
   const movies = useSelector((store) => store.movies);
   if (!movies) return null;
 
-  // Combine all movie arrays into one list to search by ID
+  
   const allMovies = [
     ...(movies.nowPlayingMovies || []),
     ...(movies.popularMovies || []),
     ...(movies.toprated || []),
     ...(movies.upcomingmovies || []),
-    ...(movies.gptMovieResult?.flat() || [])  // If you're storing GPT results in redux
+    ...(movies.gptMovieResult?.flat() || [])  
   ];
 
   const selectedMovie =
