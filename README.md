@@ -45,7 +45,7 @@ Below are the key pages of the StreamAI application:
 ## 🌐 Live Demo
   🔗 [View Deployed Website on Netlify](https://stellular-druid-ca0311.netlify.app/)
   
-##🎮  How to Use
+## 🎮  How to Use
 
 1. **Login/SignUp**: 
    - On the landing page, you’ll find options to sign up or sign in. 
