@@ -31,11 +31,20 @@ StreamAI is an innovative movie streaming platform that combines **AI movie sugg
 - **🔐 Authentication**:
   - Firebase Authentication (SignUp/SignIn)
 
+## 📸 Demo Preview
+Below are the key pages of the StreamAI application:
+- 🔐 Sign In / Sign Up Form
+- ![Image](https://github.com/user-attachments/assets/f3609ba2-bb91-4590-b1c2-f9d4d17812f0)
+- 🧭 Browser Page (StreamHub)
+- ![Image](https://github.com/user-attachments/assets/b42d2244-d5cd-4e9a-b005-801b683bcb78)
+- 🎞️ Movie List Section
+- ![Image](https://github.com/user-attachments/assets/5e01ee1c-6ff0-4d17-a261-b922a2f91f32)
+- 🤖 CineGPT AI Suggestions Page
+- ![Image](https://github.com/user-attachments/assets/37233314-e837-435b-81ba-56fefff0f4a2)
+
 ## 🌐 Live Demo
   🔗 [View Deployed Website on Netlify](https://stellular-druid-ca0311.netlify.app/)
- 
-## 📸 Demo Preview
-
+  
 ##🎮  How to Use
 
 1. **Login/SignUp**: 
